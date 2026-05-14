@@ -96,7 +96,7 @@
 
 | ช่องทาง | วิธี |
 |--------|-----|
-| 📧 **Email** | ส่ง GitHub username มาที่ `natch.sk88@gmail.com` |
+| 📧 **Email** | ส่ง GitHub username มาที่ `panis.sk88.0001@gmail.com` |
 | 💬 **Facebook** | คอมเมนต์ GitHub username ในกลุ่ม |
 | 🎮 **Discord** | พิมพ์ GitHub username ใน channel `#join-request` |
 
