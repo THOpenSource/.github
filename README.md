@@ -24,7 +24,7 @@
 
 ```
 🏢  Organization  : Open Source Community (5G)
-🔗  GitHub        : github.com/TH-OpenLab
+🔗  GitHub        : github.com/THOpensource
 🎯  Mission       : Accelerate 5G open-source innovation
 🌍  Community     : Global contributors welcome
 📡  Focus Areas   : 5G, Edge Computing, IoT, Cloud-Native
